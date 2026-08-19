@@ -4,7 +4,7 @@ An ESP32-based prank access point. It broadcasts an open WiFi network, and when
 someone connects and their phone/laptop opens the captive portal (or any page),
 they get redirected to a page that plays a video.
 
-## Connect with TechTadka360
+## Subscribe Our Social Media channels
 
 - YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
